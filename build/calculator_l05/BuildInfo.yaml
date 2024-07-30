@@ -12,7 +12,7 @@ compiled_package_info:
     std: "0000000000000000000000000000000000000000000000000000000000000001"
     vm: "0000000000000000000000000000000000000000000000000000000000000000"
     vm_reserved: "0000000000000000000000000000000000000000000000000000000000000000"
-  source_digest: FE57676B8769FC178F482252B6C339EB7CF322C7804628AA24DBC0BD15D0E7B1
+  source_digest: 51644200F01AC66A0AD9B6AA2C7E0F7D1D35205B2892DCB037964342FA4204E8
   build_flags:
     dev_mode: false
     test_mode: false
@@ -26,7 +26,7 @@ compiled_package_info:
     additional_named_addresses: {}
     architecture: ~
     fetch_deps_only: false
-    skip_fetch_latest_git_deps: false
+    skip_fetch_latest_git_deps: true
     compiler_config:
       bytecode_version: ~
       known_attributes:

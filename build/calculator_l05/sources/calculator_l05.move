@@ -8,6 +8,7 @@ module metaschool::calculator_l05
         my_message : String
     }
 
+
     public entry fun create_message(account: &signer)
     {
         if (!exists<Message>(signer::address_of(account))){

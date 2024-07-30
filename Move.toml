@@ -5,7 +5,7 @@ authors = []
 
 [addresses]
 metaschool = "0x211ff0b0181419fbc70fc7011bcef8bbb91aad80776a651b9b35f872fcd2be75"
-std = "0x1"
+
 [dev-addresses]
 
 [dependencies.AptosFramework]
